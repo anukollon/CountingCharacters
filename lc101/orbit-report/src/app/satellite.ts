@@ -11,17 +11,12 @@ export class Satellite {
         this.type = type;
         this.operational = operational;
         this.launchDate = launchDate;
-        // alert(this.type )
     }
  
     shouldShowWarning():boolean{
-        // alert("inside method");
         if(this.type.toLowerCase()=== 'space debris'){
-            // alert("inside if: "+this.type);
             return true;
         }
         return false;
-    } 
-    
-    // shouldShowWarning().bind(this);
+    }
 }

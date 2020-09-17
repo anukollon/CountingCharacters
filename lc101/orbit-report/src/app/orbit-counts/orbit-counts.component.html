@@ -1,0 +1,5 @@
+<h3>Satellite Counts:</h3>
+<div class="counts"> 
+   <div>Total: <span>{{getTotalCount}}</span></div>
+   <div  *ngFor="let map of getTotalOrbitCount() | keyvalue" >Total {{map.key}}:  <span>{{map.value}}</span></div>
+</div>

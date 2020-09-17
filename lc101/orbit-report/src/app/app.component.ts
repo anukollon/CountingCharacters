@@ -12,9 +12,12 @@ export class AppComponent {
   displayList: Satellite[]; 
   title = 'orbit-report';
   sourceList: Satellite[];
+//   satelliteList: Satellite[];;
+
   constructor() {
     this.sourceList = [];
     this.displayList = [];
+   //  this.satelliteList =[];
     let satellitesUrl = 'https://handlers.education.launchcode.org/static/satellites.json';
  
     window.fetch(satellitesUrl).then(function(response) {
@@ -29,10 +32,11 @@ export class AppComponent {
             this.sourceList.push(satellite);
             // make a copy of the sourceList to be shown to the user
             this.displayList = this.sourceList.slice(0);
+            // this.satelliteList.push(satellite);
           }
        }.bind(this));
     }.bind(this));
- 
+//  alert(this.sourceList.length)
  }
 
  search(searchTerm: string): void {
@@ -40,7 +44,9 @@ export class AppComponent {
   searchTerm = searchTerm.toLowerCase();
   for(let i=0; i < this.sourceList.length; i++) {
      let name = this.sourceList[i].name.toLowerCase();
-     if (name.indexOf(searchTerm) >= 0) {
+     let type = this.sourceList[i].type.toLowerCase();
+     let orbitType = this.sourceList[i].orbitType.toLowerCase();
+     if (name.indexOf(searchTerm) >= 0 || type.indexOf(searchTerm) >=0 || orbitType.indexOf(searchTerm) >=0) {
         matchingSatellites.push(this.sourceList[i]);
      }
   }
