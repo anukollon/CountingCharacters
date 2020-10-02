@@ -1,0 +1,13 @@
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter3Studio\Chapter3Studio\obj\Debug\netcoreapp3.1\Chapter3Studio.csprojAssemblyReference.cache
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter3Studio\Chapter3Studio\obj\Debug\netcoreapp3.1\Chapter3Studio.AssemblyInfoInputs.cache
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter3Studio\Chapter3Studio\obj\Debug\netcoreapp3.1\Chapter3Studio.AssemblyInfo.cs
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter3Studio\Chapter3Studio\obj\Debug\netcoreapp3.1\Chapter3Studio.csproj.CoreCompileInputs.cache
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter3Studio\Chapter3Studio\bin\Debug\netcoreapp3.1\Chapter3Studio.exe
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter3Studio\Chapter3Studio\bin\Debug\netcoreapp3.1\Chapter3Studio.deps.json
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter3Studio\Chapter3Studio\bin\Debug\netcoreapp3.1\Chapter3Studio.runtimeconfig.json
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter3Studio\Chapter3Studio\bin\Debug\netcoreapp3.1\Chapter3Studio.runtimeconfig.dev.json
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter3Studio\Chapter3Studio\bin\Debug\netcoreapp3.1\Chapter3Studio.dll
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter3Studio\Chapter3Studio\bin\Debug\netcoreapp3.1\Chapter3Studio.pdb
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter3Studio\Chapter3Studio\obj\Debug\netcoreapp3.1\Chapter3Studio.dll
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter3Studio\Chapter3Studio\obj\Debug\netcoreapp3.1\Chapter3Studio.pdb
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter3Studio\Chapter3Studio\obj\Debug\netcoreapp3.1\Chapter3Studio.genruntimeconfig.cache
